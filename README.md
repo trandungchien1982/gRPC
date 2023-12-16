@@ -4,7 +4,7 @@ Các ví dụ liên quan đến gRPC/ Demo thực tế từ cơ bản đến nâ
 Mỗi nhánh trong Repo sẽ là 1 ví dụ/ giải pháp/ project mẫu liên quan đến gRPC
 
 # Môi trường phát triển
-- Sử dụng Protobuf (Protoco Buffer)
+- Sử dụng Protobuf (Protocol Buffer)
 - Ngôn ngữ Java/Python
 
 # Build Tools sử dụng
